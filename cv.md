@@ -8,8 +8,8 @@
 
 - **Email:** spreecivic@hmail.com
 - **GitHub:** https://github.com/spacecloudy/
-- **Discord:** @whitehumster#6912
-- **Telegram:** @whitehumster
+- **Discord:** @spacecloudy#6912
+- **Telegram:** @spacecloudy
 
 #### About me
 

@@ -1,1 +1,2 @@
-https://spacecloudy.github.io/rsschool-cv/cv
+
+https://spacecloudy.github.io/rsschool-cv/
